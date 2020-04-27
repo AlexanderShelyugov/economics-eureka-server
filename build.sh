@@ -1,1 +1,1 @@
-docker build . -f Dockerfile.production --tag=economics:server-eureka
+docker build . --tag=economics:server-eureka
