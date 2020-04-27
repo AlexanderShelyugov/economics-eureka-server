@@ -1,1 +1,1 @@
-sudo docker run -it -p 8761:8761 economics-server-eureka
+sudo docker run -d --rm -p 8761:8761 economics:server-eureka
